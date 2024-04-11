@@ -6,8 +6,8 @@ require 'rorvswild/version'
 Gem::Specification.new do |spec|
   spec.name          = "rorvswild"
   spec.version       = RorVsWild::VERSION
-  spec.authors       = ["Alexis Bernard", "Antoine Marguerie"]
-  spec.email         = ["alexis@bernard.io", "antoine@basesecrete.com"]
+  spec.authors       = ["Alexis Bernard", "Antoine Marguerie", "Vinayak Iyer"]
+  spec.email         = ["alexis@bernard.io", "antoine@basesecrete.com", "vinuyer@gmail.com"]
   spec.summary       = "Ruby on Rails applications monitoring"
   spec.description   = "Performances and errors insights for rails developers."
   spec.homepage      = "https://www.rorvswild.com"

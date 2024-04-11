@@ -6,7 +6,8 @@ module RorVsWild
   class Agent
     def self.default_config
       {
-        api_url: "https://www.rorvswild.com/api/v1",
+        # api_url: "https://www.rorvswild.com/api/v1",
+        api_url: "http://localhost:9000/api/v1",
         ignore_exceptions: default_ignored_exceptions,
         ignore_requests: [],
         ignore_plugins: [],
